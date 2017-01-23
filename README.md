@@ -1,3 +1,4 @@
 # exercise-repo
 Repo made for exercise
-Making content
+This project will contain...
+Repository made for exercise and testing
